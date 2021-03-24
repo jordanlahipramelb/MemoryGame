@@ -1,3 +1,3 @@
 # MemoryGame
 
-Project to practice out javascript skills.
+Project to practice our javascript skills.
